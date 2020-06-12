@@ -1,4 +1,4 @@
-# :punch:  , :raised_hand:  or  :v:
+# :punch: Pedra, :raised_hand: Papel  ou  :v: tesoura
 
 Jokenpo desenvolvido através de artigo do blog [Woliveiras](https://woliveiras.com.br/posts/criando-um-jokenp%C3%B4-via-linhha-de-comando-com-nodejs/), onde com node.js aprendi a desenvolver essa CLI. 
 
